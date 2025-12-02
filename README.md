@@ -17,7 +17,7 @@ This lab is a fundamental exercise for Azure Administrators, demonstrating the c
 
 The lab environment consists of:
 
-  * **1 Public DNS Zone** (e.g., `tutorialsdojo-lab.com`)
+  * **1 Public DNS Zone** (e.g., `tutorials-lab.com`)
   * **1 Private DNS Zone** (e.g., `corp.internal`)
   * **2 Virtual Networks** (one linked, one non-linked)
   * **2 Virtual Machines** (to test auto-registration and cross-VNet resolution)
