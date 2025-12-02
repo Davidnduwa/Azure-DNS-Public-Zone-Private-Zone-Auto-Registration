@@ -26,7 +26,7 @@ The lab environment consists of:
 
 ## ⚙️ Step-by-Step Lab Guide
 
-### 🧩 Part A — Public DNS Zone Setup
+### 🧩 Part A - Public DNS Zone Setup
 
 The public zone is used to host a publicly accessible domain name.
 
